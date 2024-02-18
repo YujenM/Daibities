@@ -7,6 +7,9 @@ library(pROC)
 library(e1071)
 library(rpart)
 library(rpart.plot)
+
+#checking
+
 #loading data 
 data <- read.csv("diabetes.csv")
 head(data)
