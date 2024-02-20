@@ -31,7 +31,7 @@ You can install these libraries using the following R commands:
 
 ```R
 install.packages(c("tidyverse", "GGally", "pheatmap", "caret", "pROC", "e1071", "rpart", "rpart.plot"))
-
+```
 
 # Diabetes Prediction and Exploratory Data Analysis
 
